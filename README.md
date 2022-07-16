@@ -1,2 +1,2 @@
 # Smility
-Smility is a Shell remote programm
+Smility it's a Shell remote programm
